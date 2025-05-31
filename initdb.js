@@ -21,7 +21,7 @@ const dummyMeals = [
       4. Serve:
          Complete the assembly with the top bun and serve hot.
     `,
-    creator: "John Doe",
+    creator: "Khanhbroo",
     creator_email: "johndoe@example.com",
   },
   {
@@ -46,7 +46,7 @@ const dummyMeals = [
       5. Serve:
          Enjoy this creamy curry with rice or bread.
     `,
-    creator: "Max Schwarz",
+    creator: "Khanhbroo",
     creator_email: "max@example.com",
   },
   {
@@ -68,7 +68,7 @@ const dummyMeals = [
       4. Serve:
          Enjoy these dumplings hot, with a dipping sauce of your choice.
     `,
-    creator: "Emily Chen",
+    creator: "Khanhbroo",
     creator_email: "emilychen@example.com",
   },
   {
@@ -93,7 +93,7 @@ const dummyMeals = [
       5. Serve:
          Serve hot, garnished with parsley if desired.
     `,
-    creator: "Laura Smith",
+    creator: "Khanhbroo",
     creator_email: "laurasmith@example.com",
   },
   {
@@ -115,7 +115,7 @@ const dummyMeals = [
       4. Serve:
          Slice hot and enjoy with a sprinkle of basil leaves.
     `,
-    creator: "Mario Rossi",
+    creator: "Khanhbroo",
     creator_email: "mariorossi@example.com",
   },
   {
@@ -137,7 +137,7 @@ const dummyMeals = [
       4. Serve:
       Serve hot with a slice of lemon and a side of potato salad or greens.
  `,
-    creator: "Franz Huber",
+    creator: "Khanhbroo",
     creator_email: "franzhuber@example.com",
   },
   {
@@ -159,7 +159,7 @@ const dummyMeals = [
       4. Serve:
          Enjoy this simple, flavorful salad as a side dish or light meal.
     `,
-    creator: "Sophia Green",
+    creator: "Khanhbroo",
     creator_email: "sophiagreen@example.com",
   },
 ];
